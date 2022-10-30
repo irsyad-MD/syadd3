@@ -14,7 +14,7 @@ const defaultMenu = {
 ➲ Level *%level (%exp / %maxexp)* [%xp4levelup lagi untuk levelup]
 %totalexp XP in Total
 ✮ ig: https://instagram.com/baukpandan_1323
-✮ Grup Wa Bot: *https://chttps://chat.whatsapp.com/DxhV7aM3Q3k6dg4FsM0saw*
+✮ Grup Wa Bot: *https://chat.whatsapp.com/DxhV7aM3Q3k6dg4FsM0saw*
  
 %readmore`.trimStart(),
   header: '┏━━━•❅•°•❈ %category 』',
